@@ -91,7 +91,8 @@ public class IniciarJogo {
 	}
 	
 	public static void moverJogador() {
-		
+		//alterar posicionamento do jogador na caverna
+		//
 	}
 	
 	private static Caverna PosicionarJogador(Caverna caverna, int contSala) {

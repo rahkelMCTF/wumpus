@@ -1,3 +1,5 @@
+//autor: Raquel Figueiredo
+//Mundo dos wumpus
 package wumpus.view;
 
 import wumpus.model.*;
